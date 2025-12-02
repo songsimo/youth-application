@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dec6876-ced0-4f7d-805d-2c9fa84ef888" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/tossbank/tossbank_corporate_governance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2차과제.md" beforeDir="false" afterPath="$PROJECT_DIR$/2차과제.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,7 @@
       <workItem from="1763964523128" duration="5437000" />
       <workItem from="1764147652622" duration="753000" />
       <workItem from="1764657814277" duration="4119000" />
-      <workItem from="1764662268546" duration="130000" />
+      <workItem from="1764662268546" duration="641000" />
     </task>
     <servers />
   </component>
