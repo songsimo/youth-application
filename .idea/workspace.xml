@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dec6876-ced0-4f7d-805d-2c9fa84ef888" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/tossbank/tossbank_corporate_governance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kakaobank/kakaobank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kakaobank/kakaobank_ai_service_2025_4Q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kakaobank/kakaobank_banking_biz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kakaobank/kakaobank_meeting_account_4Q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kakaobank/kakaobank_new_service_2025_3Q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kakaobank/kakaobank_organization.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kakaobank/kakaobank_service.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2차과제.md" beforeDir="false" afterPath="$PROJECT_DIR$/2차과제.md" afterDir="false" />
     </list>
@@ -34,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "step-2",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/moonjunyong-m1-16/Downloads/other-github/youth-application/img/tossbank",
+    "last_opened_file_path": "/Users/moonjunyong-m1-16/Downloads/other-github/youth-application/img/kakaobank",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,6 +51,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/kakaobank" />
       <recent name="$PROJECT_DIR$/img/tossbank" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
@@ -78,7 +85,8 @@
       <workItem from="1763964523128" duration="5437000" />
       <workItem from="1764147652622" duration="753000" />
       <workItem from="1764657814277" duration="4119000" />
-      <workItem from="1764662268546" duration="641000" />
+      <workItem from="1764662268546" duration="1711000" />
+      <workItem from="1764738637937" duration="3991000" />
     </task>
     <servers />
   </component>
